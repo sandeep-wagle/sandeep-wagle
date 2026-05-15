@@ -27,11 +27,11 @@
 
 > 💼 **Flutter Mobile Developer** from Pokhara, Nepal 🇳🇵
 >
-> 🎯 **Expertise:** Flutter & Dart • Mobile App Development • UI/UX Design
+> 🎯 **Expertise:** Flutter & Dart • Mobile App Development 
 >
 > 🏗️ **Architecture:** Clean Architecture • Feature-First Structure • BLoC Pattern
 >
-> 🚀 **Current Project:** Bhumi Connect - Agricultural Networking Platform
+> 🚀 **Current Project:** Rythm-AI powered meeting and trancript app
 >
 > 😴 **Fun Fact:** I debug more than I sleep!
 
