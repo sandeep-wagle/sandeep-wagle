@@ -31,7 +31,7 @@
 >
 > 🏗️ **Architecture:** Clean Architecture • Feature-First Structure • BLoC Pattern
 >
-> 🚀 **Current Project:** Rythm-AI powered meeting and trancript app
+> 🚀 **Current Project:** Rythm-AI powered meeting and transcript app
 >
 > 😴 **Fun Fact:** I debug more than I sleep!
 
