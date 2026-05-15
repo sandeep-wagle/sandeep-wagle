@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sandeep Wagle
 ### aka `the-eternalXchaos`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Crafting+Seamless+Mobile+Experiences+%E2%9C%A8;Turning+Ideas+into+Elegant+Apps+%F0%9F%93%B1;Designing+with+a+Human+Touch+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Crafting+Seamless+Mobile+Experiences+%E2%9C%A8;Turning+Ideas+into+Elegant+Apps+%F0%9F%93%B1;Designing+with+a+Human+Touch+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-the-eternalxchaos)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-eternalXchaos)
