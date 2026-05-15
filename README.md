@@ -3,12 +3,23 @@
 # 👋 Hi, I'm Sandeep Wagle
 ### aka `the-eternalXchaos`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Flutter+Mobile+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;Passionate+Learner+%F0%9F%93%9A;Building+Beautiful+Apps+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Crafting+Seamless+Mobile+Experiences+%E2%9C%A8;Turning+Ideas+into+Elegant+Apps+%F0%9F%93%B1;Designing+with+a+Human+Touch+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-the-eternalxchaos)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-eternalXchaos)
+![License](https://img.shields.io/github/license/the-eternalXchaos/the-eternalXchaos?style=for-the-badge&color=6366F1)
 
 </div>
+
+---
+
+## 📌 Table of Contents
+- [🎯 About Me](#-about-me)
+- [💻 Tech Stack](#-tech-stack)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🐍 Contributions](#-contributions)
+- [🎯 Current Focus](#-current-focus--projects)
+- [🤝 Let's Connect](#-lets-connect--collaborate)
 
 ---
 
@@ -90,7 +101,7 @@
 
 ---
 
-## 🐍 Contribution 
+## 🐍 Contributions 
 
 <div align="center">
 
