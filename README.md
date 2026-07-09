@@ -1,13 +1,13 @@
 <div align="center">
 
 # 👋 Hi, I'm Sandeep Wagle
-### aka `the-eternalXchaos`
+### aka `sandeep-wagle`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Crafting+Seamless+Mobile+Experiences+%E2%9C%A8;Turning+Ideas+into+Elegant+Apps+%F0%9F%93%B1;Designing+with+a+Human+Touch+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-the-eternalxchaos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-eternalXchaos)
-![License](https://img.shields.io/github/license/the-eternalXchaos/the-eternalXchaos?style=for-the-badge&color=6366F1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep-wagle)
+![License](https://img.shields.io/github/license/sandeep-wagle/sandeep-wagle?style=for-the-badge&color=6366F1)
 
 </div>
 
@@ -78,14 +78,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-eternalXchaos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-eternalXchaos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-wagle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-wagle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-eternalXchaos&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandeep-wagle&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=the-eternalXchaos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandeep-wagle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,14 +106,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep-wagle/sandeep-wagle/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeep-wagle/sandeep-wagle/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeep-wagle/sandeep-wagle/output/snake.svg">
 </picture>
 <!-- 
 ### 🌊 Ocean Theme
 
-![Ocean Snake](https://raw.githubusercontent.com/the-eternalXchaos/the-eternalXchaos/output/ocean.gif) -->
+![Ocean Snake](https://raw.githubusercontent.com/sandeep-wagle/sandeep-wagle/output/ocean.gif) -->
 
 </div>
 
@@ -164,7 +164,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-eternalXchaos&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeep-wagle&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -175,7 +175,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandeep-the-eternalxchaos)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/the-eternalXchaos)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sandeep-wagle)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepwagle007@gmail.com)
 
 ### 💬 Open For
@@ -193,9 +193,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=the-eternalXchaos&color=6366f1&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeep-wagle&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-### ⭐ From [Sandeep Wagle](https://github.com/the-eternalXchaos) • Flutter Developer
+### ⭐ From [Sandeep Wagle](https://github.com/sandeep-wagle) • Flutter Developer
 
 *"First, solve the problem. Then, write the code."* – John Johnson
 
